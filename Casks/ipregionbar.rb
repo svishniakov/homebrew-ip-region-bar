@@ -1,6 +1,6 @@
 cask "ipregionbar" do
-  version "1.0.1"
-  sha256 "05fdddbc23a46053021e70f371a2dc50c73bc495b9c38704c8609d4789e01368"
+  version "1.0.2"
+  sha256 "d6c64428897c50e2dd2aecac68b3c28b7bc67447a4b4fd81af24f04a7d01d27e"
 
   url "https://github.com/svishniakov/ip-region-bar/releases/download/v#{version}/IPRegionBar.dmg"
   name "IP Region Bar"
